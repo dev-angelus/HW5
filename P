@@ -1,0 +1,4 @@
+HW7
+P
+__pycache__
+venv
